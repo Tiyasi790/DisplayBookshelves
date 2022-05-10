@@ -4,6 +4,7 @@
   <artifactId>DisplayBookshelves</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+<!-- this is a demo for Git hub -->
   <dependencies>
   
   	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
